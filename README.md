@@ -8,4 +8,4 @@ Speed dating analysis using:
 - **goal**: conducting EDA,proprocessing and modeling to predict a match (1) or no match (0) after the speed dating session. Goal is to see model performance using different hyperparameter and preprocessing search methods (using pipeline).
 - full_dumentation file provides more detail on EDA and modeling findings
 
-Paste code link here if .ipynb files won't open (or take too long to open): https://nbviewer.jupyter.org/
+**Paste code link here if .ipynb files won't open (or take too long to open): https://nbviewer.jupyter.org/**
