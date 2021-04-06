@@ -1,5 +1,4 @@
 # Predicting_speed_dating_matches
-Speed dating analysis using:
 - preprocessing and data exploration
 - parameter search
 - pipelining
